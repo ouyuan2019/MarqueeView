@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="MarqueeView">
+        
+        <attr name="mv_interval" format="integer"/>
+        <attr name="mv_duration" format="integer"/>
+    </declare-styleable>
+    
+</resources>
